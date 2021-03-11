@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-task-jwd-150221/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is intended to fulfill the task of JWD BPPTIK batch 2 in March 2021
+This project is intended to fulfill the task of JWD BPPTIK batch 2 in March 2021.
 
 1 repository consisting of 3 task folders including:
 
@@ -54,7 +54,7 @@ _For more examples and usage, please contact [Handoko Adji Pangestu](https://www
 
 ## Development setup
 
-In the `Flight model` section, in the method store replace the header with your baseUrl.
+In the `Tugas3_HandokoAdjiPangestu-airport` directory change `Flight model` section, in the method store replace the header with your baseUrl.
 
 ```sh
 header('Location: http://localhost/project-learn/bpptik/project-task-jwd-150221-airport/index.php?pref=flight&page=index');
