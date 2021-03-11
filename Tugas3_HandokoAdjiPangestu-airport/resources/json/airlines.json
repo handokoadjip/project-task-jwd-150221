@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "1",
+    "airline": "Garuda Indonesia",
+    "price": "800000"
+  },
+  {
+    "_id": "2",
+    "airline": "Adam Air",
+    "price": "700000"
+  },
+  {
+    "_id": "3",
+    "airline": "Lion Air",
+    "price": "900000"
+  },
+  {
+    "_id": "4",
+    "airline": "Air Asia",
+    "price": "700000"
+  }
+]

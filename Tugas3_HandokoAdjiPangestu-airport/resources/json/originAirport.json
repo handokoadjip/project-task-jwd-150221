@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1",
+    "code": "CGK",
+    "airport": "Soekarno-Hatta",
+    "tax": "50000"
+  },
+  {
+    "_id": "2",
+    "code": "BDO",
+    "airport": "Abdul Rachman Saleh",
+    "tax": "30000"
+  },
+  {
+    "_id": "3",
+    "code": "MLG",
+    "airport": "Abdul Rachman Saleh",
+    "tax": "40000"
+  },
+  {
+    "_id": "4",
+    "code": "SUB",
+    "airport": "Juanda",
+    "tax": "40000"
+  }
+]

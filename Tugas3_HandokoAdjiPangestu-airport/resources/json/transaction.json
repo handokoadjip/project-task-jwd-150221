@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "1",
+        "airline": "Garuda Indonesia",
+        "origin": "Soekarno-Hatta",
+        "depature": "Ngurah Rai",
+        "price": 800000,
+        "tax": 130000,
+        "total": 930000
+    },
+    {
+        "_id": "602fb86579d8d",
+        "airline": "Adam Air",
+        "origin": "Abdul Rachman Saleh",
+        "depature": "Hasanuddin",
+        "price": 700000,
+        "tax": 100000,
+        "total": 800000
+    },
+    {
+        "_id": "6038b470dd4f8",
+        "airline": "Garuda Indonesia",
+        "origin": "Abdul Rachman Saleh",
+        "depature": "Ngurah Rai",
+        "price": 800000,
+        "tax": 110000,
+        "total": 910000
+    },
+    {
+        "_id": "6038b498014fb",
+        "airline": "Garuda Indonesia",
+        "origin": "Juanda",
+        "depature": "Ngurah Rai",
+        "price": 800000,
+        "tax": 120000,
+        "total": 920000
+    },
+    {
+        "_id": "6038b4b516567",
+        "airline": "Air Asia",
+        "origin": "Soekarno-Hatta",
+        "depature": "Ngurah Rai",
+        "price": 700000,
+        "tax": 130000,
+        "total": 830000
+    },
+    {
+        "_id": "6049dd6db5f77",
+        "airline": "Air Asia",
+        "origin": "Juanda",
+        "depature": "Sultan Iskandarmuda",
+        "price": 700000,
+        "tax": 110000,
+        "total": 810000
+    },
+    {
+        "_id": "6049dd85be9bc",
+        "airline": "Garuda Indonesia",
+        "origin": "Abdul Rachman Saleh",
+        "depature": "Sultan Iskandarmuda",
+        "price": 800000,
+        "tax": 30000,
+        "total": 830000
+    },
+    {
+        "_id": "6049dd9188186",
+        "airline": "Garuda Indonesia",
+        "origin": "Abdul Rachman Saleh",
+        "depature": "Inanwatan",
+        "price": 800000,
+        "tax": 120000,
+        "total": 920000
+    },
+    {
+        "_id": "6049ddd0c4074",
+        "airline": "Garuda Indonesia",
+        "origin": "Abdul Rachman Saleh",
+        "depature": "Hasanuddin",
+        "price": 800000,
+        "tax": 100000,
+        "total": 900000
+    },
+    {
+        "_id": "6049ddfb9c116",
+        "airline": "Air Asia",
+        "origin": "Soekarno-Hatta",
+        "depature": "Hasanuddin",
+        "price": 700000,
+        "tax": 120000,
+        "total": 820000
+    }
+]
