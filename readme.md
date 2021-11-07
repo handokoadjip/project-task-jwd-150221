@@ -50,7 +50,7 @@ Only contains a pdf on how to install and download the tools needed for junior w
 
 ![Airport](http://bebaskripsi.000webhostapp.com/project-task-jwd-150221/Tugas3_HandokoAdjiPangestu-airport-dashboard.png)
 
-_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
+_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokodp/)._
 
 ## Development setup
 
@@ -73,7 +73,7 @@ header('Location: {baseUrl}/index.php?pref=flight&page=index'');
 
 ## Meta
 
-Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadjip/) – handokoadjipangestu@gmail.com
+Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadp/) – handokoadjipangestu@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
